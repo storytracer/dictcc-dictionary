@@ -1,0 +1,71 @@
+<pkmkdoc spec="1.12"><properties><title>dictc.cc Deutsch-Englisch Dictionary</title><build>/Users/philipp/Coding/dictcc-Deutsch-Englisch-Dictionary-2008-03-15.pkg</build><organization>org.lipflip</organization><userSees ui="easy"/><min-target os="3"/><domain anywhere="true"/></properties><distribution><versions min-spec="1.000000"/><scripts></scripts></distribution><description>dict.cc Plugin für das Lexikon von Mac OS X
+
+Dieses Wörterbuch stammt aus dem Online-Wörterbuch www.dict.cc, das seinerseits auf den Wortlisten von dict.tu-chemnitz.de, sowie der Mitarbeit zahlreicher Benutzerinnen und Benutzer von dict.cc basiert.
+
+Die Werkzeuge zur Erstellung eines Plugins für Dictionary.App/Lexikon wurden von Philipp „Lipflip“ Brauner entwickelt und durch die Integration eines ähnlichen Tools von Wolfgang Reszel verbessert.
+
+Lizenz:
+Die Applikation darf kostenlos für den persönlichen Gebrauch verwendet werden. Die darin enthaltenen Übersetzungsdaten dürfen nicht extrahiert und/oder wiederveröffentlicht werden. Mit der Installation akzeptiere ich diese Bedingungen.
+
+Weitere Informationen zur Lizenz und zum Projekt auf
+http://www.dict.cc/</description><contents><choice title="dict.cc Deutsch-Englisch Dictionary" id="choice44" description="dict.cc Plugin für das Lexikon von Mac OS X  Dieses Wörterbuch stammt aus dem Online-Wörterbuch www.dict.cc, das seinerseits auf den Wortlisten von dict.tu-chemnitz.d und Mr Honey's Business Dictionary, sowie der Mitarbeit zahlreicher Benutzerinnen und Benutzer von dict.cc basiert.  Die Werkzeuge zur Erstellung eines Plugins für Dictionary.App/Lexikon wurden von Philipp „Lipflip“ Brauner entwickelt und durch die Integration eines ähnlichen Tools von Wolfgang Reszel verbessert.  Lizenz: Die Applikation darf kostenlos für den persönlichen Gebrauch verwendet werden. Die darin enthaltenen Übersetzungsdaten dürfen nicht extrahiert und/oder wiederveröffentlicht werden. Mit der Installation akzeptiere ich diese Bedingungen.  Weitere Informationen zur Lizenz und zum Projekt auf http://www.dict.cc/" starts_selected="true" starts_enabled="true" starts_hidden="false"><pkgref id="de.dictcc.dictionary.pkg"/></choice></contents><resources bg-scale="none" bg-align="topleft"><locale lang="de"><resource mime-type="text/rtf" kind="embedded" type="readme"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf270
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 dict.cc Plugin f\'fcr das Lexikon von Mac OS X\
+
+\b0 \
+Das dict.cc Dictionary Plugin wird f\'fcr alle Benutzer nach\
+
+\f1 /Library/Dictionaries
+\f0 \
+installiert.\
+Dort kann es zur Deinstallation jederzeit gel\'f6scht werden.}]]></resource><resource mime-type="text/rtf" kind="embedded" type="welcome"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf270
+{\fonttbl\f0\fnil\fcharset0 Georgia;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 dict.cc Plugin f\'fcr das Lexikon von Mac OS X\
+
+\b0 \
+Dieses W\'f6rterbuch stammt aus dem Online-W\'f6rterbuch www.dict.cc, das seinerseits auf den Wortliste von dict.tu-chemnitz.de, sowie der Mitarbeit zahlreicher Benutzerinnen und Benutzer von dict.cc basiert.\
+\
+Die Werkzeuge zur Erstellung eines Plugins f\'fcr Dictionary.App/Lexikon wurden von Philipp \'84Lipflip\'93 Brauner entwickelt und durch die Integration eines \'e4hnlichen Tools von Wolfgang Reszel verbessert.\
+\
+
+\b Lizenz:\
+
+\b0 Die Applikation darf kostenlos f\'fcr den pers\'f6nlichen Gebrauch verwendet werden. Die darin enthaltenen \'dcbersetzungsdaten d\'fcrfen nicht extrahiert und/oder wiederver\'f6ffentlicht werden. Mit der Installation akzeptiere ich diese Bedingungen.\
+\
+Weitere Informationen zur Lizenz und zum Projekt auf\
+http://www.dict.cc/}]]></resource></locale><locale lang="en"><resource mime-type="text/rtf" kind="embedded" type="readme"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf270
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 dict.cc Plugin for Mac OS X Dictionary.App\
+
+\b0 \
+dict.cc Dictionary Plugin will be installed for all users into the following directory:\
+
+\f1 /Library/Dictionaries
+\f0 \
+You can delete it from there to uninstall this dictionary.}]]></resource><resource mime-type="text/rtf" kind="embedded" type="welcome"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf270
+{\fonttbl\f0\fnil\fcharset0 Georgia;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 dict.cc Plugin for Mac OS X Dictionary.App\
+
+\b0 \
+This dictionary descends from the www.dict.cc online dictionary, that is based on the wordlist from dict.tu-chemnitz.de, as well as the participation of thousands of users of dict.cc.\
+\
+The tools to create this plugin were developed by Philipp \'84Lipflip\'93 Brauner and were heavily improved through the incorporation of a similar tools by Wolfgang Reszel.\
+\
+
+\b License:\
+
+\b0 This Application may be used for personally free of charge. You may not export and/or republish the dictionary data contained within.\
+\
+Further information about the license or the project can be found on http://www.dict.cc/}]]></resource></locale></resources><requirements><requirement id="sosv" operator="ge" value="'10.5.0'"><message-title>Installation nicht möglich</message-title><message>Sie benötigen OS X 10.5 (Leopard) oder höher.</message></requirement><requirement id="tosv" operator="ge" value="'10.5.0'"><message>Bitte wählen Sie ein Volume, wo OS X 10.5 (Leopard) installiert ist.</message></requirement><requirement id="kilo" operator="ge" value="500"><message>Sie benötigen mindestens 350MB Platz auf ihrer Festplatte.</message></requirement></requirements><flags/><preinstall><action id="com.apple.packagemaker.actions.getapplication"><item1-title>com.apple.Dictionary</item1-title><item2-title>Dictionary.app</item2-title></action><action id="com.apple.packagemaker.actions.quitapplication"/></preinstall><item type="file">01dict.xml</item><mod>properties.userDomain</mod><mod>properties.anywhereDomain</mod><mod>properties.systemDomain</mod><mod>properties.customizeOption</mod><mod>preinstallActions.actions</mod><mod>properties.title</mod><mod>description</mod><mod>postinstallActions.actions</mod></pkmkdoc>
