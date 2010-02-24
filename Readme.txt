@@ -1,3 +1,8 @@
+Download packaged plugin here: http://bit.ly/dictcc-plugin-zip
+(Database snapshot made on 2010-02-23)
+
+---------------------------------------------------------------------------
+
 input2xml.py dict.cc to Apple Dictionary Plugin Script ($Rev: 15 $)
 $Date: 2008-03-15 18:36:46 +0100 (Sa, 15 MÃ¤r 2008) $
 by Philipp Brauner/Lipflip 2008, licensed under the GLP
