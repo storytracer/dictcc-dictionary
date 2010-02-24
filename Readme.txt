@@ -1,4 +1,5 @@
-Download packaged plugin here: http://bit.ly/dictcc-plugin-zip
+Download packaged plugin here:
+https://sourceforge.net/projects/dictccplugin/files/dict.cc%20Deutsch-Englisch%20Dictionary.zip/download
 (Database snapshot made on 2010-02-23)
 
 ---------------------------------------------------------------------------
